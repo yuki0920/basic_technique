@@ -2,9 +2,8 @@
 
 ## 参考
 
-### 書籍
 - [Goならわかるシステムプログラミング](https://www.lambdanote.com/products/go)
-- [［試して理解］Linuxのしくみ](https://gihyo.jp/book/2018/978-4-7741-9607-7)
+- [［試して理解］Linuxのしくみ](https://gihyo.jp/book/2022/978-4-297-13148-7)
 - [なるほどUnixプロセス](https://tatsu-zine.com/books/naruhounix)
 - [ふつうのLinuxプログラミング](https://www.sbcr.jp/product/4797386479/)
 - [プログラムはなぜ動くのか](https://www.nikkeibp.co.jp/atclpubmkt/book/07/P83150/)
